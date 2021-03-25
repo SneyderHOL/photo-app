@@ -61,6 +61,13 @@
   color: #fff;
 }
 
+.features {
+  ul {
+    margin-left: 0;
+    padding-left: 15px;
+  }
+}
+
 .jumbotron {
   text-align: center;
   background-image: asset-url('meeting.jpg');
@@ -75,3 +82,11 @@
   text-shadow: -1px 0 #555, 0 1px #555, 1px 0 #555, 0 -1px #555
 }
 
+.no-left-padding {
+  padding-left: 0 !important;
+}
+
+.listing {
+  list-style: none;
+  padding-left: 0;
+}
