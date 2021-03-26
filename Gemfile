@@ -27,6 +27,8 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 # Use twitter bootstrap views
 gem 'devise-bootstrap-views'
+# Use strip
+gem 'stripe'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
